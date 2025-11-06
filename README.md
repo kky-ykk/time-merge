@@ -1,4 +1,6 @@
 # time-merge
+[![npm version](https://img.shields.io/npm/v/time-merge.svg)]([https://www.npmjs.com/package/time-merge](https://www.npmjs.com/package/time-merge))
+[![npm downloads](https://img.shields.io/npm/dt/time-merge.svg)]([https://www.npmjs.com/package/time-merge](https://www.npmjs.com/package/time-merge))
 
 A lightweight Node.js utility to merge overlapping or near-continuous time ranges based on a given threshold (in milliseconds).  
 Useful for merging active time intervals, event logs, or any timestamp ranges.
